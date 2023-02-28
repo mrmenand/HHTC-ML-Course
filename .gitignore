@@ -1,0 +1,6 @@
+.git
+__pycache__
+*.logs
+*.idea
+*.ipynb_checkpoints
+
